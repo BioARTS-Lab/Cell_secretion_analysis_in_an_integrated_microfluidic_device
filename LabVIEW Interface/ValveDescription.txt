@@ -1,0 +1,46 @@
+BSV1 - Biosensing solution valve 1
+BSV2 - Biosensing solution valve 2
+BSV3 - Biosensing solution valve 3
+BSV4 - Biosensing solution valve 4
+BSV5 - Biosensing solution valve 5
+BSV6 - Biosensing solution valve 6
+BSV7 - Biosensing solution valve 7
+BSV8 - Biosensing solution valve 8
+
+APV  - Air purge valve  (right)
+
+BCV  - Biosensing common valve
+
+
+BSV1 - Biosensing solution valve 1
+BSV2 - Biosensing solution valve 2
+BSV3 - Biosensing solution valve 3
+BSV4 - Biosensing solution valve 4
+-----------------------------------------------  
+
+
+CSV1 - Cell culture solution valve 1
+CSV2 - Cell culture solution valve 2
+CSV3 - Cell culture solution valve 3
+CSV3 - Cell culture solution valve 4
+
+APV  - Air Purge Valve
+
+CCV  - Cell culture common valve
+
+COV  - Cell culture outlet valve
+
+CRV  - Cell culture row valve
+
+SPV  - Stimuli purge valve
+
+SV   - Stimuli inlet valve
+
+
+
+------------------------------------------------
+
+MV   - Mixing valve
+NV   - Neck valve
+BCV  - Biosensing Common valve (bottom)
+
