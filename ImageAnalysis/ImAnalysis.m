@@ -44,5 +44,5 @@ maskedim2=FluoIm.*mask;
 val=find(mask);
 spotInt= mean(maskedim2(val))                           %Obtain the mean intensity of the spot
 
-Intensity = spotInt-bkgInt                              %Subtract the background intensity from the spot intenisty
+Intensity = spotInt-bkgInt                              %Subtract the background intensity from the spot intensity
       
